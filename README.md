@@ -1,2 +1,2 @@
 # Dx12GameDemo
-涓�涓狣irectX12鐨勬父鎴廌emo
+一个DirectX12的游戏Demotest1
