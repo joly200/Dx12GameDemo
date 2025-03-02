@@ -1,2 +1,3 @@
 # Dx12GameDemo
-一个DirectX12的游戏Demo 
+一个DirectX12的游戏Demo ......
+我第一次用github本来想把代码和编译好的文件都给上传了 结果出现各种问题
